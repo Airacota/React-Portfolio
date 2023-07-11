@@ -39,7 +39,7 @@ export const Skills = () => {
                             <h2>
                                 Skills
                             </h2>
-                            <p>Below are a bunch of skills I have a solid grasp on whether that be self-taught or through schooling programs</p>
+                            <p>Below are a bunch of skills I have a solid grasp on during my time at WakeTech</p>
                             <Carousel responsive={responsive} infinite={true} className="skill-slider">
                                 
                                 <div className="item">

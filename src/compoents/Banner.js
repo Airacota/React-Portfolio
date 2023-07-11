@@ -11,7 +11,7 @@ return (
           <Col xs={12} md={6} xl={7}>
             <span className="tagline">Web Portfolio</span>
             <h1> Judah Miller, A Web devloper in training</h1>
-            <p>An aspiring web developer yearning to improve and master anything related web development or coding </p>
+            <p>An aspiring web developer yearning to improve and master anything related to web development or coding </p>
           </Col>
 
 
